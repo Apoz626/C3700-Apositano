@@ -3,11 +3,11 @@ body {
     font-size: 20px;
     margin: 0;
     padding: 0;
-    background-color: cyan;
+    background-color: #eeeeee;
 }
 header {
     height: 130px;
-    background-color: yellow;
+    background-color: #ff5722;
 }
 #logo {
     width: 112px;
@@ -19,7 +19,7 @@ header {
 #mainTitle {
     font-size: 30px;
     font-family: "Arial Black";
-    color: rebeccapurple;
+    color: #eeeeee;
     text-align: center;
     position: relative;
     /*top: 40px;*/
@@ -35,12 +35,31 @@ header {
 #mainArea {
     position: relative;
     margin-left: 30%;
+    color: #2d4059;
 }
 footer {
     height: 40px;
-    background-color: cyan;
+    background-color: #2d4059;
     font-size: 15px;
+    color: #eeeeee;
 }
 #footerContent {
     padding-left: 20px;
+}
+a {
+    color: #ff5722;
+}
+#about {
+    display: flex;
+    justify-content: center;
+    color: #ff5722;
+}
+#aboutTitle {
+    display: flex;
+    justify-content: center;
+}
+#aboutDesc {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
 }
