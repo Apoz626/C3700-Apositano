@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="458fea45-cc66-4340-82d0-8729bcea4a00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CSC3700/9_12 In Class/9_12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/BooksRUs_9_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/01 JS Review V3 LeftOff 912.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/imgs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/json.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/BooksRUs_9_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/BooksRUs_9_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2m7XzQuVd0VnfNEQDipGQD152vL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/tonyp/Documents/School/CS/AU/Fall 24/CSC 3700/CSC3700-Apositano1/C3700-Apositano/CSC3700/BooksRUs Boostrap Assignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700\BooksRUs Boostrap Assignment" />
+      <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700" />
+      <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700\BooksRUs Bootstrap" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="458fea45-cc66-4340-82d0-8729bcea4a00" name="Changes" comment="" />
+      <created>1726428852066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726428852066</updated>
+      <workItem from="1726428854769" duration="5980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
