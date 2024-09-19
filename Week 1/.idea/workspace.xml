@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="458fea45-cc66-4340-82d0-8729bcea4a00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CSC3700/9_12 In Class/9_12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/BooksRUs_9_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Boostrap Assignment/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/01 JS Review V3 LeftOff 912.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/imgs/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/json.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/BooksRUs_9_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/BooksRUs_9_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSC3700/BooksRUs Bootstrap/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../in_class_9_19/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,29 +16,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2m7XzQuVd0VnfNEQDipGQD152vL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/tonyp/Documents/School/CS/AU/Fall 24/CSC 3700/CSC3700-Apositano1/C3700-Apositano/CSC3700/BooksRUs Boostrap Assignment",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tonyp/Documents/School/CS/AU/Fall 24/CSC 3700/CSC3700-Apositano1/C3700-Apositano/CSC3700/BooksRUs Boostrap Assignment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700\BooksRUs Boostrap Assignment" />
@@ -64,6 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726428852066</updated>
       <workItem from="1726428854769" duration="5980000" />
+      <workItem from="1726769743917" duration="308000" />
+      <workItem from="1726771258350" duration="8000" />
     </task>
     <servers />
   </component>
