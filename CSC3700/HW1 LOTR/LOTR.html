@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.84.0">
+
+    <title>Lord Of The Rings</title>
+
+    <link href='https://fonts.googleapis.com/css?family=MedievalSharp' rel='stylesheet'>
+    <link rel="stylesheet" href="CSS/main.css"/>
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/sticky-footer-navbar/">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="css/main.css"  rel="stylesheet" />
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+    <script src="JS/Lord.js"></script>
+
+</head>
+<body onLoad="loadItems()">
+
+<header>
+    <img id='logo' src="imgs/LOTRLogo.jpg" alt="The Logo"/>
+    <div id="title">Lord Of The Rings</div>
+</header>
+
+<div id="main">
+    <div id="leftSide">
+        <div id="lTitle">Lord of the Rings Character Selector</div>
+        <div id="choose">Choose a Character:</div>
+        <select name="characters" id="characters">
+
+        </select><br>
+        <button id="button" onCLick="showCharacter()">Show Character Info</button>
+    </div>
+    <div id="middle">
+        <div id="charName"> </div>
+        <div id="charImg"> </div>
+    </div>
+    <div id="rightSide">
+        <div id="charDesc"> </div>
+        <table id="table">
+
+        </table>
+    </div>
+</div>
+
+<footer>
+    <div>Prepared by Anthony Positano for CSC3700</div>
+</footer>
+</body>
+</html>

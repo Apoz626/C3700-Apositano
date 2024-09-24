@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="458fea45-cc66-4340-82d0-8729bcea4a00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../in_class_9_19/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/CSS/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/HW 1 Lord Of The Rings Cards.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/JS/Lord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/LOTR.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/imgs/legolis.png" beforeDir="false" afterPath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/imgs/legolas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSC3700/HW1 LOTR/json.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -27,11 +41,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tonyp/Documents/School/CS/AU/Fall 24/CSC 3700/CSC3700-Apositano1/C3700-Apositano/CSC3700/BooksRUs Boostrap Assignment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tonyp/Documents/School/CS/AU/Fall 24/CSC 3700/CSC3700-Apositano1/C3700-Apositano/CSC3700/HW1 LOTR&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -41,6 +57,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700\HW1 LOTR" />
       <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700\BooksRUs Boostrap Assignment" />
       <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700" />
       <recent name="C:\Users\tonyp\Documents\School\CS\AU\Fall 24\CSC 3700\CSC3700-Apositano1\C3700-Apositano\CSC3700\BooksRUs Bootstrap" />
@@ -57,6 +74,10 @@
       <workItem from="1726428854769" duration="5980000" />
       <workItem from="1726769743917" duration="308000" />
       <workItem from="1726771258350" duration="8000" />
+      <workItem from="1726949758525" duration="7072000" />
+      <workItem from="1727017149705" duration="6571000" />
+      <workItem from="1727103097271" duration="3445000" />
+      <workItem from="1727193927682" duration="102000" />
     </task>
     <servers />
   </component>
