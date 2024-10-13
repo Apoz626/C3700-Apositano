@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+    <style>
+        header {
+            height: 100px;
+            text-align: center;
+            background-color: dodgerblue;
+            padding-top: 30px;
+            font-size: 40px;
+        }
+
+        .link {
+            padding-top: 20px;
+        }
+
+        .selected {
+            font-weight: bold;
+            padding-top: 15px;
+        }
+    </style>
+<body>
+<header>Harry's Hamburger Heaven</header>
+<br>
+<div class="selected">You Selected the Following</div>
+<br>
+<div>Item: {{item}}</div>
+<div>Cost: {{cost}}</div>
+<div>Extras:
+    {{#each extras}}
+        {{this}},
+    {{/each}}
+</div>
+<div class="link"><a href="/home">Back to Form</a></div>
+
+</body>
+</html>

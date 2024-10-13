@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+    <style>
+        header {
+            height: 100px;
+            text-align: center;
+            background-color: dodgerblue;
+            padding-top: 30px;
+            font-size: 40px;
+        }
+    </style>
+<body>
+<header>Harry's Hamburger Heaven</header>
+<br>
+<select name="food" id="food">
+    {{#each products}}
+        <option value="{{this.item}}">{{this.item}}</option>
+    {{/each}}
+</select>
+<button type="submit"/> Click </button>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<main>
+    <h2> {{pageTitle}} </h2>
+        {{#if gotProducts}}
+            <table border="1">
+                <tr><th>Title</th><th>Author</th></tr>
+                {{#each products}}
+                    <tr><td>{{this.title}}</td><td>{{this.author}}</td></tr>
+                {{/each}}
+            </table>
+        {{else}}
+            No Products to Display
+        {{/if}}
+</main>
+</body>
+</html>
